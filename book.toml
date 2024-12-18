@@ -5,9 +5,6 @@ multilingual = false
 src = "src"
 title = "Zed"
 
-[build]
-build-dir = "book"
-
 [output.html]
 no-section-label = true
 preferred-dark-theme = "dark"
